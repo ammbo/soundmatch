@@ -5,3 +5,4 @@ public/
 .dev.vars
 scripts/corpus.json
 *.log
+.env
